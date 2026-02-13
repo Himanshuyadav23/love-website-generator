@@ -3,53 +3,47 @@
 
 const CONFIG = {
     // Partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
+    partnerName: wifeyyy💋
     
     // Your name (optional, for signature)
-    yourName: "Your Name",
+    yourName: Parth Patel 
     
     // Custom messages
     messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
-        loveNote: "you are the sunshine in my darkest days and the stars in my night sky. Every moment with you feels like magic, and I fall in love with you more each day. You're not just my girlfriend, you're my best friend, my soulmate, and my everything. I love you beyond words! 💖",
-        specialMessage: "You came into my life like a beautiful surprise, and now I can't imagine my world without you. Your smile brightens my darkest days, your laugh is my favorite melody, and your love is the greatest gift I've ever received.",
-        specialMessage2: "Thank you for being you, for loving me, and for making every day feel like a celebration. I promise to love you, cherish you, and make you smile every single day of our lives together.",
-        signature: "With all my love, Forever yours 💕"
+        subtitle: Lovee of my lifee💋🫂
+        loveNote: Mari life nu best decision che tu mari love life ju last chapter che i lovee youu bubudduuu 💋🫂🫂
+        specialMessage: sache tu mari laxmi che tu avi tyar thi mari life best thai gai che 💋🥹🫂
+        specialMessage2: Thank you for everything every efforts mari mate first time kurti pehrva thi lai ne mari mate flower lava mate badhi vastu mate thank you so much 💋🫂
+        signature: sorry for every mistake k did till now aj mate pan sache mane yaad notu manava mate aj flower lavelo sorry 🥺🫂
     },
     
     // Memory descriptions
     memories: {
-        lateNight: "Those endless conversations that made us forget about time",
-        firstMeeting: "I know the day we meet will be magical and unforgettable",
-        care: "Your caring nature, sweet voice, and adorable cuteness"
+        lateNight: apdi ig pyar vali conversation best che atyar sudhi ni 💋🫂
+        firstMeeting: tane jyare pehli vaar madyo tyare aj mane evu lagyu aj nai ke ane pehli vaar madu chu 
+        care: mari caree karva mate thank you i lovee youu 💋🫂🫂
     },
     
     // Character descriptions
     characters: {
-        partner: "My beautiful angel",
-        you: "Forever yours"
+        partner: maru bubudduu cheee 💋🫂
+        you: yours forever my eternal lovee 💋🫂
     },
     
     // Special messages for different kiss counts
     kissMessages: {
-        10: "10 kisses! You're so sweet! 💕",
-        50: "50 kisses! I'm falling deeper in love! 💖",
-        100: "100 kisses! You're my everything! 💘"
+        10: 10 kissii tanee gal prr 💋
+        50: 50 kissiii tanee forehead parr 💋
+        100: 100 kissii tanee lips per 💋💋💋
     },
     
     // Character interaction messages
     characterMessages: {
-        partner: "you're the most beautiful person in the world! 💕",
-        you: "I'm so lucky to have you in my life! 💖"
-    },
-    
-    // Memory effect messages
-    memoryMessages: {
-        lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
-        firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
-        care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
+        partner: most cute and adorable person and best girlfriend everr 💋💋🫂🫂
+        you: i want to get known are your boyfriend and then your husband bas 💋💋🫂🫂
     }
 };
+again soo sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry sorry aj mare i lovee you 💋💋💋🫂🫂🫂
 
 // Make config available globally
 window.CONFIG = CONFIG;
