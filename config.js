@@ -1,27 +1,24 @@
-// Love Website Configuration
-// Customize this file to personalize your love website
-
 const CONFIG = {
     // Partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
+    partnerName: "Mochi_Sochi",
     
     // Your name (optional, for signature)
-    yourName: "Your Name",
+    yourName: "Otaku_Man",
     
     // Custom messages
     messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
-        loveNote: "you are the sunshine in my darkest days and the stars in my night sky. Every moment with you feels like magic, and I fall in love with you more each day. You're not just my girlfriend, you're my best friend, my soulmate, and my everything. I love you beyond words! 💖",
-        specialMessage: "You came into my life like a beautiful surprise, and now I can't imagine my world without you. Your smile brightens my darkest days, your laugh is my favorite melody, and your love is the greatest gift I've ever received.",
-        specialMessage2: "Thank you for being you, for loving me, and for making every day feel like a celebration. I promise to love you, cherish you, and make you smile every single day of our lives together.",
-        signature: "With all my love, Forever yours 💕"
+        subtitle: "คุณทำให้โลกของพี่สดใสในแบบที่คำพูดใดๆ ก็ไม่อาจบรรยายได้ ✨",
+        loveNote: "เธอคือแสงสว่างในวันที่มืดมนที่สุดของฉัน และดวงดาวในท้องฟ้ายามค่ำคืน ทุกช่วงเวลาที่อยู่กับเธอช่างเหมือนเวทมนตร์ และฉันตกหลุมรักเธอมากขึ้นทุกวัน เธอไม่ใช่แค่แฟนของฉัน แต่เธอคือเพื่อนที่ดีที่สุดของฉัน คู่ชีวิตของฉัน และทุกสิ่งทุกอย่างของฉัน ฉันรักเธอมากเกินกว่าจะบรรยายเป็นคำพูดได้! 💖",
+        specialMessage: "คุณเข้ามาในชีวิตฉันเหมือนเซอร์ไพรส์ที่แสนงดงาม และตอนนี้ฉันนึกภาพโลกที่ปราศจากคุณไม่ออกเลย รอยยิ้มของคุณทำให้วันมืดมนที่สุดของฉันสดใสขึ้น เสียงหัวเราะของคุณคือท่วงทำนองที่ฉันโปรดปรานที่สุด และความรักของคุณคือของขวัญที่ยิ่งใหญ่ที่สุดที่ฉันเคยได้รับ.",
+        specialMessage2: "ขอบคุณที่เธอเป็นเธอ ขอบคุณที่รักฉัน และขอบคุณที่ทำให้ทุกวันเป็นเหมือนวันเฉลิมฉลอง ฉันสัญญาว่าจะรักเธอ ทะนุถนอมเธอ และทำให้เธอยิ้มได้ทุกวันตลอดชีวิตที่เราอยู่ด้วยกัน.",
+        signature: "ด้วยรักทั้งหมดของฉัน ตลอดไป 💕"
     },
     
     // Memory descriptions
     memories: {
-        lateNight: "Those endless conversations that made us forget about time",
-        firstMeeting: "I know the day we meet will be magical and unforgettable",
-        care: "Your caring nature, sweet voice, and adorable cuteness"
+        lateNight: "บทสนทนาที่ไม่มีวันจบสิ้นเหล่านั้น ที่ทำให้เราลืมเวลาไปเลย",
+        firstMeeting: "ฉันรู้ว่าวันที่เราได้พบกันจะเป็นวันที่วิเศษและน่าจดจำ",
+        care: "ความเอาใจใส่ของคุณ เสียงหวาน และความน่ารักน่าเอ็นดู"
     },
     
     // Character descriptions
@@ -45,9 +42,9 @@ const CONFIG = {
     
     // Memory effect messages
     memoryMessages: {
-        lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
-        firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
-        care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
+        lateNight: "ช่วงเวลาดึกดื่นที่ได้คุยกับคุณคือความทรงจำที่ฉันโปรดปรานที่สุด 🌙✨",
+        firstMeeting: "ฉันรู้ว่าวันที่เราได้พบกันจะเป็นวันที่วิเศษและน่าจดจำ 💫💕",
+        care: "ความเอาใจใส่ เสียงหวานๆ และความน่ารักของคุณทำให้ฉันใจละลาย 💕😍"
     }
 };
 
