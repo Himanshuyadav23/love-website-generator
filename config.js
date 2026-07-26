@@ -3,51 +3,50 @@
 
 const CONFIG = {
     // Partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
+    partnerName: "Lily-Rose",
     
     // Your name (optional, for signature)
-    yourName: "Your Name",
+    yourName: "Cas",
     
     // Custom messages
     messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
-        loveNote: "you are the sunshine in my darkest days and the stars in my night sky. Every moment with you feels like magic, and I fall in love with you more each day. You're not just my girlfriend, you're my best friend, my soulmate, and my everything. I love you beyond words! 💖",
-        specialMessage: "You came into my life like a beautiful surprise, and now I can't imagine my world without you. Your smile brightens my darkest days, your laugh is my favorite melody, and your love is the greatest gift I've ever received.",
-        specialMessage2: "Thank you for being you, for loving me, and for making every day feel like a celebration. I promise to love you, cherish you, and make you smile every single day of our lives together.",
-        signature: "With all my love, Forever yours 💕"
+        subtitle: "Ik hou van je tot de maan en terug🌑",
+        loveNote: "Lieve Lily-Rose, jij bent het zonlicht op mijn donkerste dagen en de sterren aan mijn nachthemel. Elk moment met jou voelt als pure magie, en ik word elke dag weer een beetje verliefder op je. Je bent niet zomaar mijn vriendin; je bent mijn beste vriendin, mijn zielsverwant en mijn alles. Ik hou onbeschrijfelijk veel van je! 💖",
+        specialMessage: "Je kwam in mijn leven als een prachtige verrassing, en nu kan ik me mijn wereld zonder jou niet meer voorstellen. Jouw glimlach maakt mijn donkerste dagen licht, jouw lach is mijn favoriete geluid, en jouw liefde is het mooiste cadeau dat ik ooit heb gekregen, lieve Lily-Rose.",
+        specialMessage2: "Bedankt dat je bent wie je bent, dat je van me houdt en dat je van elke dag een feestje maakt. Ik beloof je te liefhebben, te koesteren en elke dag van ons leven samen een glimlach op je gezicht te toveren.",
+        signature: "Ik hou voor altijd van je 💕"
     },
     
     // Memory descriptions
     memories: {
-        lateNight: "Those endless conversations that made us forget about time",
-        firstMeeting: "I know the day we meet will be magical and unforgettable",
-        care: "Your caring nature, sweet voice, and adorable cuteness"
+        lateNight: "we praten elke dag tot midden in de nachhttt",
+        firstMeeting: "Ik weet nog toen je het aanvroeg ik was zoozozozo blijj toen",
+        care: "je altijd zorgt voor me "
     },
     
     // Character descriptions
     characters: {
-        partner: "My beautiful angel",
-        you: "Forever yours"
+        partner: "mijn mooie koningin",
+        you: "vooraltijd van jouw"
     },
     
     // Special messages for different kiss counts
     kissMessages: {
-        10: "10 kisses! You're so sweet! 💕",
-        50: "50 kisses! I'm falling deeper in love! 💖",
-        100: "100 kisses! You're my everything! 💘"
+        0: "0 kisses! awwhh;( 💕",
+       
     },
     
     // Character interaction messages
     characterMessages: {
-        partner: "you're the most beautiful person in the world! 💕",
-        you: "I'm so lucky to have you in my life! 💖"
+        partner: "Jij bent de moooiste ter wereld 💕",
+        you: "Ik ben zo blij dat we in de zelfde groep zaten en elkaar hebben leren kennen 💖"
     },
     
     // Memory effect messages
     memoryMessages: {
-        lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
-        firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
-        care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
+        lateNight: "4 juni (;",
+        firstMeeting: "zoveeeel zinnn 💫💕",
+        care: "JIJIJ BENT ZOOOO CUTEE 💕😍"
     }
 };
 
