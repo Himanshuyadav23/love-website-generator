@@ -1,135 +1,213 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Love Website Generator 💕</title>
+    <title>Fatma ❤️ Yasin</title>
+
     <link rel="stylesheet" href="styles.css">
-    <script src="config.js"></script>
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Alex+Brush&family=Allura&family=Poppins:wght@300;400;500;600;700&family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
+
 <body>
-    <!-- Music Control -->
+
+    <!-- Müzik -->
     <div class="music-control">
         <button id="musicToggle" class="music-btn">🎵</button>
         <audio id="bgMusic" loop>
             <source src="https://cdn.pixabay.com/download/audio/2022/01/18/audio_d0c6ff1bab.mp3" type="audio/mp3">
-            <source src="https://cdn.pixabay.com/download/audio/2022/03/15/audio_c8c8a73c3a.mp3" type="audio/mp3">
         </audio>
     </div>
 
-    <!-- Floating Hearts Background -->
+    <!-- Kalpler -->
     <div class="hearts-container"></div>
 
-    <!-- Main Container -->
     <div class="container">
-        <!-- Header -->
+
+        <!-- Başlık -->
         <header class="header">
-            <h1 class="main-title">For My Love</h1>
-            <p class="subtitle" id="subtitle">Add your partner's name in config.js ✨</p>
+            <h1 class="main-title">Fatma ❤️ Yasin</h1>
+            <p class="subtitle" id="subtitle">
+                İyi ki varsın aşkım, iyi ki hayatımdasın ✨
+            </p>
         </header>
 
-        <!-- Character Section -->
+        <!-- Fatma & Yasin -->
         <section class="characters-section">
             <div class="character-container">
+
                 <div class="character" id="partner">
                     <div class="character-avatar">
                         <svg viewBox="0 0 100 100" class="character-svg">
                             <circle cx="50" cy="35" r="20" fill="#FFB6C1" stroke="#FF69B4" stroke-width="2"/>
-                            <path d="M30 60 Q50 45 70 60 Q50 80 30 60" fill="#FFB6C1" stroke="#FF69B4" stroke-width="2"/>
+                            <path d="M30 60 Q50 45 70 60 Q50 80 30 60"
+                                  fill="#FFB6C1" stroke="#FF69B4" stroke-width="2"/>
                             <circle cx="42" cy="32" r="2" fill="#FF1493"/>
                             <circle cx="58" cy="32" r="2" fill="#FF1493"/>
-                            <path d="M45 40 Q50 45 55 40" stroke="#FF1493" stroke-width="2" fill="none"/>
+                            <path d="M45 40 Q50 45 55 40"
+                                  stroke="#FF1493" stroke-width="2" fill="none"/>
                         </svg>
                     </div>
-                    <h3 id="partnerName">Your Love 💕</h3>
-                    <p id="partnerDescription">My beautiful angel</p>
+
+                    <h3 id="partnerName">Fatma ❤️</h3>
+                    <p id="partnerDescription">Benim güzel aşkım</p>
                 </div>
-                
+
                 <div class="love-heart">
                     <svg viewBox="0 0 50 50" class="heart-svg">
-                        <path d="M25 45 C25 45, 5 25, 5 15 C5 10, 10 5, 15 5 C20 5, 25 10, 25 15 C25 10, 30 5, 35 5 C40 5, 45 10, 45 15 C45 25, 25 45, 25 45 Z" fill="#FF69B4"/>
+                        <path d="M25 45 C25 45, 5 25, 5 15
+                                 C5 10, 10 5, 15 5
+                                 C20 5, 25 10, 25 15
+                                 C25 10, 30 5, 35 5
+                                 C40 5, 45 10, 45 15
+                                 C45 25, 25 45, 25 45 Z"
+                              fill="#FF69B4"/>
                     </svg>
                 </div>
 
                 <div class="character" id="you">
                     <div class="character-avatar">
                         <svg viewBox="0 0 100 100" class="character-svg">
-                            <circle cx="50" cy="35" r="20" fill="#87CEEB" stroke="#4682B4" stroke-width="2"/>
-                            <rect x="35" y="55" width="30" height="25" rx="5" fill="#87CEEB" stroke="#4682B4" stroke-width="2"/>
+                            <circle cx="50" cy="35" r="20"
+                                    fill="#87CEEB" stroke="#4682B4" stroke-width="2"/>
+                            <rect x="35" y="55" width="30" height="25" rx="5"
+                                  fill="#87CEEB" stroke="#4682B4" stroke-width="2"/>
                             <circle cx="42" cy="32" r="2" fill="#4682B4"/>
                             <circle cx="58" cy="32" r="2" fill="#4682B4"/>
-                            <path d="M45 40 Q50 45 55 40" stroke="#4682B4" stroke-width="2" fill="none"/>
+                            <path d="M45 40 Q50 45 55 40"
+                                  stroke="#4682B4" stroke-width="2" fill="none"/>
                         </svg>
                     </div>
-                    <h3 id="yourName">Me 💙</h3>
-                    <p id="yourDescription">Forever yours</p>
+
+                    <h3 id="yourName">Yasin 💙</h3>
+                    <p id="yourDescription">Sonsuza kadar senin</p>
                 </div>
+
             </div>
         </section>
 
-        <!-- Interactive Love Section -->
+        <!-- Aşk mesajı -->
         <section class="interaction-section">
-            <button id="loveButton" class="love-btn">Click for a surprise 💝</button>
+
+            <button id="loveButton" class="love-btn">
+                Sana bir sürprizim var 💝
+            </button>
+
             <div id="loveNote" class="love-note">
-                <p id="loveNoteText">Add your love message in config.js 💖</p>
+                <p id="loveNoteText">
+                    Aşkım, seni çok seviyorum.
+                    Seninle yaşadığımız her an benim için çok değerli.
+                    İyi ki hayatımdasın, iyi ki benimlesin.
+                    ❤️
+                </p>
             </div>
+
         </section>
 
-        <!-- Memory Gallery -->
+        <!-- Anılar -->
         <section class="memory-gallery">
-            <h2>Our Beautiful Memories Together 💫</h2>
+
+            <h2>Bizim Güzel Anılarımız 💫</h2>
+
             <div class="memories-grid">
+
                 <div class="memory-card" data-memory="late-night">
                     <div class="memory-icon">🌙</div>
-                    <h3>Late Night Talks</h3>
-                    <p id="memoryLateNight">Those endless conversations that made us forget about time</p>
+                    <h3>Gece Sohbetlerimiz</h3>
+                    <p id="memoryLateNight">
+                        Saatlerin nasıl geçtiğini anlamadığımız,
+                        konuşmaya doyamadığımız güzel anlarımız.
+                    </p>
                 </div>
+
                 <div class="memory-card" data-memory="first-meeting">
                     <div class="memory-icon">💫</div>
-                    <h3>The Day We'll Meet</h3>
-                    <p id="memoryFirstMeeting">I know the day we meet will be magical and unforgettable</p>
+                    <h3>Birlikte Geçirdiğimiz Anlar</h3>
+                    <p id="memoryFirstMeeting">
+                        Seninle geçirdiğim her an benim için
+                        unutulmaz ve çok özel.
+                    </p>
                 </div>
+
                 <div class="memory-card" data-memory="care">
                     <div class="memory-icon">💕</div>
-                    <h3>Your Care & Voice</h3>
-                    <p id="memoryCare">Your caring nature, sweet voice, and adorable cuteness</p>
+                    <h3>Senin Sevgin</h3>
+                    <p id="memoryCare">
+                        Sesin, gülüşün, ilgilenmen ve bana hissettirdiğin
+                        o güzel sevgi...
+                    </p>
                 </div>
+
             </div>
         </section>
 
-        <!-- Love Meter -->
+        <!-- Aşk ölçer -->
         <section class="love-meter-section">
-            <h2>How Much I Love You 💕</h2>
+
+            <h2>Seni Ne Kadar Seviyorum? 💕</h2>
+
             <div class="love-meter">
                 <div class="meter-fill"></div>
                 <span class="love-percentage">∞%</span>
             </div>
+
         </section>
 
-        <!-- Kiss Counter Game -->
+        <!-- Öpücük -->
         <section class="game-section">
-            <h2>Virtual Kisses 💋</h2>
+
+            <h2>Sana Sanal Öpücükler 💋</h2>
+
             <div class="kiss-counter">
                 <span id="kissCount">0</span>
-                <button id="kissButton" class="kiss-btn">Send a Kiss 💋</button>
+
+                <button id="kissButton" class="kiss-btn">
+                    Sana Öpücük Gönder 💋
+                </button>
             </div>
+
             <div class="kiss-effects"></div>
+
         </section>
 
-        <!-- Special Message -->
+        <!-- Özel mesaj -->
         <section class="special-message">
+
             <div class="message-container">
-                <h2 id="specialMessageTitle">To My Dearest Love</h2>
-                <p id="specialMessage1">You came into my life like a beautiful surprise, and now I can't imagine my world without you. Your smile brightens my darkest days, your laugh is my favorite melody, and your love is the greatest gift I've ever received.</p>
-                <p id="specialMessage2">Thank you for being you, for loving me, and for making every day feel like a celebration. I promise to love you, cherish you, and make you smile every single day of our lives together.</p>
-                <div class="signature" id="signature">With all my love, Forever yours 💕</div>
+
+                <h2 id="specialMessageTitle">
+                    Benim Güzel Aşkıma ❤️
+                </h2>
+
+                <p id="specialMessage1">
+                    Aşkım, hayatıma girdiğin günden beri birçok şey
+                    benim için daha güzel. Seninle konuşmak,
+                    seni görmek ve seninle güzel anılar biriktirmek
+                    benim için çok değerli.
+                </p>
+
+                <p id="specialMessage2">
+                    Bazen uzak olsak da kalbimdeki yerin hiç değişmiyor.
+                    Seni çok seviyorum Fatma.
+                    İyi ki varsın, iyi ki benimlesin.
+                    İnşallah birlikte daha nice güzel günlerimiz olur.
+                    ❤️
+                </p>
+
+                <div class="signature" id="signature">
+                    Seni çok seven Yasin ❤️
+                </div>
+
             </div>
+
         </section>
+
     </div>
 
     <script src="script.js"></script>
+
 </body>
 </html>
