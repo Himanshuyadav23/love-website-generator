@@ -32,17 +32,12 @@ Edit the `config.js` file to personalize your love website:
 
 ```javascript
 const CONFIG = {
-    // Your partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
-    
-    // Your name (optional, for signature)
-    yourName: "Your Name",
-    
-    // Custom messages
+    partnerName: "Fatma",
+    yourName: "Yasin",
+
     messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
-        loveNote: "your personalized love message here...",
-        // ... more customizable messages
+        subtitle: "İyi ki varsın aşkım, iyi ki hayatımdasın ❤️",
+        loveNote: "Seninle yaşadığımız her an benim için çok değerli. Seni çok seviyorum ve birlikte daha nice güzel anılar biriktirmek istiyorum. ❤️"
     }
 };
 ```
@@ -54,7 +49,18 @@ const CONFIG = {
 - **Memories**: Customize memory descriptions and messages
 - **Character Descriptions**: Personalize how you describe each other
 - **Kiss Messages**: Special messages for different kiss counts
-- **Interactive Messages**: Messages that appear when clicking characters
+- **Interactive Messages**: Messages that appear when clic
+<img width="1920" height="1080" alt="IMG_20251002_020659" src="https://github.com/user-attachments/assets/01234109-a3f0-4112-929f-20e854d1962e" />
+<img width="2160" height="2160" alt="Collage_20260616_192735" src="https://github.com/user-attachments/assets/57ac18e6-8f4b-42ff-adec-b84783920126" />
+<img width="1128" height="1394" alt="ChatGPT Image 30 May 2026 02_24_39" src="https://github.com/user-attachments/assets/1312f176-55c0-4981-9d13-284f300e9b22" />
+<img width="1256" height="2552" alt="690985473781fcdeaee1ebd48fa28586" src="https://github.com/user-attachments/assets/f30e73f7-ea69-4722-a9f5-16a6b1ef502c" />
+<img width="948" height="1920" alt="f72e9cf2670113c69d7a47dbdbffaadc" src="https://github.com/user-attachments/assets/f67a6fbf-bb19-467e-943b-2ee5b46e2006" />
+<img width="1040" height="780" alt="IMG_20251016_041849_810" src="https://github.com/user-attachments/assets/91cd54ce-6a7e-49a5-910b-81e4aadb50d9" />
+<img width="1920" height="948" alt="IMG_20260902_030718" src="https://github.com/user-attachments/assets/c5361bee-c0a0-479a-b564-a7e0fd5edb3f" />
+<img width="667" height="657" alt="Screenshot_20250528_000833_com huawei photos" src="https://github.com/user-attachments/assets/571a62bf-2947-48fd-8bf3-09cdc9894fb2" />
+<img width="985" height="966" alt="Screenshot_20250528_000700_com huawei photos" src="https://github.com/user-attachments/assets/0e6d4cb2-e108-480f-b66a-6b6c1d02c9d4" />
+<img width="1256" height="2552" alt="b5e104c4290347103a9cb0a957efb0c6" src="https://github.com/user-attachments/assets/af8d5f25-fd4b-458f-bfbc-109447cba825" />
+king characters
 
 ## 🎨 Features Overview
 
