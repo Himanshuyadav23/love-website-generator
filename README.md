@@ -32,19 +32,26 @@ Edit the `config.js` file to personalize your love website:
 
 ```javascript
 const CONFIG = {
-    // Your partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
-    
-    // Your name (optional, for signature)
-    yourName: "Your Name",
-    
-    // Custom messages
+    partnerName: "Fatma",
+    yourName: "Yasin",
+
     messages: {
-        subtitle: "you light up my world in ways words can't express ✨",
-        loveNote: "your personalized love message here...",
-        // ... more customizable messages
+        subtitle: "İyi ki varsın aşkım, iyi ki hayatımdasın ❤️",
+        loveNote: "Seninle yaşadığımız her an benim için çok değerli. Seni çok seviyorum ve birlikte daha nice güzel anılar biriktirmek istiyorum. ❤️"
     }
-};
+};<img width="1748" height="1240" alt="Yeşil Sarı Minimalist Çiçekli Özür Kartı_20260930_012811_0000" src="https://github.com/user-attachments/assets/b4ea3099-b94b-48c8-aed7-37113404c63b" />
+<img width="1920" height="1080" alt="IMG_20251002_020659" src="https://github.com/user-attachments/assets/ad97ebdf-f36e-48b7-943f-abf89efb653c" />
+<img width="1256" height="2552" alt="690985473781fcdeaee1ebd48fa28586" src="https://github.com/user-attachments/assets/e78cc8a4-4dbc-48e1-ba1e-f74d82e05d2e" />
+<img width="1128" height="1394" alt="ChatGPT Image 30 May 2026 02_24_39" src="https://github.com/user-attachments/assets/998b6073-ea83-4fad-9beb-487612868fff" />
+<img width="1080" height="1920" alt="15f16107980cb4fc82a619fc5e0ac0ac_0" src="https://github.com/user-attachments/assets/a776194e-2176-4b6e-8e8b-f0ecc7667cb5" />
+<img width="2160" height="2160" alt="Collage_20260616_192735" src="https://github.com/user-attachments/assets/b4e8eb6a-24e3-402a-9760-b23de7a6c5e9" />
+<img width="948" height="1920" alt="f72e9cf2670113c69d7a47dbdbffaadc" src="https://github.com/user-attachments/assets/98d88cb0-3bbd-443f-a188-d25bb3eb6d8b" />
+<img width="1040" height="780" alt="IMG_20251016_041849_810" src="https://github.com/user-attachments/assets/eb4bc789-1f06-46f4-ba72-fcf5d6d07fb5" />
+<img width="1920" height="948" alt="IMG_20260902_030718" src="https://github.com/user-attachments/assets/78a634a4-9e16-4b6c-9cc6-25564abc0734" />
+<img width="667" height="657" alt="Screenshot_20250528_000833_com huawei photos" src="https://github.com/user-attachments/assets/d16e77cf-a114-4a9e-a70c-557140a6c6ca" />
+<img width="985" height="966" alt="Screenshot_20250528_000700_com huawei photos" src="https://github.com/user-attachments/assets/6eddbe0c-a6af-4397-b93b-89940a91d43f" />
+<img width="1256" height="2552" alt="b5e104c4290347103a9cb0a957efb0c6" src="https://github.com/user-attachments/assets/156b4433-5261-4665-9d3f-682b5b7c4ea9" />
+
 ```
 
 ### What You Can Customize
