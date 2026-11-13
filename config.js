@@ -3,10 +3,10 @@
 
 const CONFIG = {
     // Partner's name (will be used throughout the website)
-    partnerName: "Your Love's Name",
+    partnerName: "Quety",
     
     // Your name (optional, for signature)
-    yourName: "Your Name",
+    yourName: "himanshuuuu",
     
     // Custom messages
     messages: {
@@ -20,13 +20,13 @@ const CONFIG = {
     // Memory descriptions
     memories: {
         lateNight: "Those endless conversations that made us forget about time",
-        firstMeeting: "I know the day we meet will be magical and unforgettable",
-        care: "Your caring nature, sweet voice, and adorable cuteness"
+        firstMeeting: "u r my peace and every moment with u feels like i wanna spend my whole life w u",
+        care: "u can never be replaced and u hold a position so strong in my life"
     },
     
     // Character descriptions
     characters: {
-        partner: "My beautiful angel",
+        partner: "love of my life and before anyone else",
         you: "Forever yours"
     },
     
@@ -46,8 +46,8 @@ const CONFIG = {
     // Memory effect messages
     memoryMessages: {
         lateNight: "Those late nights talking with you are my favorite memories 🌙✨",
-        firstMeeting: "I know the day we meet will be magical and unforgettable 💫💕",
-        care: "Your caring nature, sweet voice, and adorable cuteness melt my heart 💕😍"
+        firstMeeting: "Quety, u r my peace and every moment with u feels like i wanna spend my whole life w u 💫💕",
+        care: "Quety, u can never be replaced and u hold a position so strong in my life 💕"
     }
 };
 
